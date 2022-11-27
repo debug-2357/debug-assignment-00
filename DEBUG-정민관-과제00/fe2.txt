@@ -1,0 +1,65 @@
+React
+
+React 란?
+라이브러리 프레임워크의 차이 제어흐름을 누가 제어하느냐
+제어흐름 > 프레임워크가 제어  // 라이브러리는 제어흐름 > 개발자가 제어
+라이브러리는 제어를 능동적으로 다 짜야함
+javascript 의 라이브러리로 싱글페이지 애플리케이션의 ui를 생성하는데 집중
+특징 1 Jsx javascript xml
+
+템플릿 언어
+
+Function App html을 javascript안에 쓸수있음!
+특징 2 Virtual dom
+Dom이 뭘까
+문서 객체모델 
+Html css js
+브라우저엔진이 랜더링하는데 랜더링하는 극초반 단계에 오브젝트 하나하나를 트리구조로 
+버츄얼돔은 왜쓸까? 속도차이는 없음 근데 그건 버ㅜ얼돔과 돔을 비교했을때임 js engene
+도큐먼트 오브젝트 모델 
+Document > html > head > [link rel= “ ”]
+				>body
+특징3 단방향 데이터 바인딩
+
+특징4 컴포넌트 기반
+
+react 도대체 왜 사용하나요 ?
+Spa Single Page Application
+csr Client Side Rendering
+React 와 next
+dmswjd7281
+
+
+Next > ssr 
+react (현업에서 가장 많이 사용한다) > csr. 장점 서버 성능이 좋지않아도 된다.
+단점 검색엔진에 노출 빈도가 낮다.
+
+웹FE
+
+
+제어흐름
+
+언어공부 만들어보기
+
+자바스크립트 인터프리터언어
+.h 파일도 라이브러리임 거기함수 갖다쓰고 제어함 라이브러리임 
+장고 파이썬 
+
+라이브러리 함수존나마는 뭉텅이
+싱글페이지 어플리케이션 (인스타 트위터 등) 반대는 
+멀티플페이지 어플리케이션 근데 굳이 이런표현 안씀
+View 앵글러 리엑트가 튀어나온 이유 한 페이지에 많은 데이터
+
+Jsx 하나가 실행가능한 조각 하나임
+
+단방향데이터바인딩은 괜찮은 아이디어다 
+React server side rendering 가능한가?
+가능함 리엑트만 가지고는 안함 지원안함 
+검색엔진에 노출 빈도가 낮다.
+
+JS ——>
+Node.js (v8, lib, eventloop
+     		ㄴ>resident set
+ㄴ>express.js + html/css (css)-> sass + gulp
+				ㄴ> react.js / next 
+Web be docker 
