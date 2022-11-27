@@ -11,3 +11,4 @@ Assignment Number: 00
 # Completed list
 - 201735030 이호민
 - 201814003 김은정
+- 202014115 김수정

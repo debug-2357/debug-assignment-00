@@ -1,0 +1,33 @@
+1. 파일 버전 관리
+Repository: 컴퓨터의 폴더같은 개념
+
+1) local, remote
+- local에서 remote로 보내는 것: push
+- remote에서 local로 보내는 것: pull
+
+2) branch
+-conflic 해소? 최소화?
+-분리 시켜서 작업하기
+
+3) merge
+는 합병입니다
+
+4) 파일 올리기
+레퍼지토리 만들고
+git init
+git remote add origin 레퍼지토리url
+git add ---.txt
+git commit -m 'hi~'
+git push origin master			
+
+2. 협업 버전 관리
+
+1) fork
+fork로 레포를 떠서 온다?
+
+2) issue는 투두리스트가 아니다
+
+3) pull request
+내 코드 main branch에 넣기 가능한?
+
+*main branch는 매우 중요하니까 함부로 뭐 올리지 말고 검증을 받고 올려야 함
