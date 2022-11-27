@@ -1,2 +1,5 @@
-say anything
-올릴걸 찾지 못해서 아무거나 글 씁니다 깔깔.
+gitHub pull request 이후 본인의 title 옆 #을 잘 확인해보세요!
+만약 reviewr가 코드를 수정하길 원할 경우 해당 pull request를 지운다?
+NoNo! 파일을 1차로 수정해주시고 로컬에서 원격으로 다시 올립니다.
+단, git commit 시 메세지에 > [#번호]커밋 메세지 < 와 같이 올릴경우
+짜잔 열린 pull request를 확인하면 등록되어 있을걸요? 아마도..?
