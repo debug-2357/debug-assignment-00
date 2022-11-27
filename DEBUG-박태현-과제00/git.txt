@@ -1,0 +1,40 @@
+Git 파일버전관리
+Repository 
+
+Local 나 올릴곳 remote
+Local to remote : push
+Remote to local : pull, clone
+
+Branch 
+분리된 작업 영역 개념(git의 장점 중 하나, Confilict(충돌)를 해소하기 위한 개념)
+
+Merge 기능 : 서로 다른 코드를 융합
+
+로그인 데이터 송신 구현
+로그인 기능 수정		로그인 ㅇ로 묶음 = merge
+로그인기능 개선
+
+Master main 최종폴더
+
+Rebase 대상을 기반으로 재작업 후 base (기반,기준)을 바꿈
+
+Cherry picking  : 최선 또는 가장 바람직한 선택
+Git cherry-pick : 타 branch에 있는 일부 commit을 가져오기
+
+커밋은 작업한 블럭이다
+
+commit : 메세지, 기록, footprint
+Head 머리 우두머리 위 지금상태
+stage 상태의 tracking file의 변경 이력을 저장하는 개념
+
+1. 변경 내용 요약 //제목
+2. 변경 사유//본문(선택사항
+3. 참고사항//꼬리말(선택사항
+
+
+udacity git commit message style 선호
+
+
+Git init 현 디렉토리 초기화
+
+Git remote add <name>
