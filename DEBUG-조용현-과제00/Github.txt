@@ -1,0 +1,27 @@
+1. 파일 버전 관리
+
+Repository == Directory
+
+Remote & Local 
+Local to Remote : push
+Remote to Local : pull,clone
+
+Branch : 분리된 작업 영역 개념
+
+Merge & fetch : 다른 코드를 융합
+
+Commit == 메시지, 기록, footprint
+
+2. 협업의 버전 관리
+
+Fork
+Issue & TODO
+Project
+Pull Request
+CO-OP Branch & My Branch
+
+3. 상호 검증
+
+Fork & make a pull request
+
+Conflict
